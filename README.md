@@ -1,4 +1,4 @@
-<img src="Resources/bike.jpg" alt="drawing" width="300"/>
+<img src="pics/bike.jpg" alt="drawing" width="300"/>
 
 # Citi Bike Analysis
 ## Project
