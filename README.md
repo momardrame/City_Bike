@@ -21,3 +21,10 @@ The goals of this project is are for you to:
 - Utilize previously created Tableau worksheets to create a new story.
 - Create a Tableau story based on starting a bike-sharing company in Des Moines.
 
+
+## Background
+## Project Overview
+## Resources
+## Data Source
+## Machine Learning Model
+## Findings and Recommendation
