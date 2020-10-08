@@ -1,9 +1,11 @@
-# Citi_Bike
+<img src="Resources/bike.jpg" alt="drawing" width="300"/>
+
+# Citi Bike Analysis
 ## Project
-In this module, you’ll work with data visualization software called Tableau to present a business proposal for a bike-sharing company. First, you’ll learn how to import, style, and portray data accurately. Then, you’ll create worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset. 
+In this project, Tableau will be used to present a business proposal for a bike-sharing company. Tasks will include importing, styling, and portraying data accurately. Then, creating worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset. 
 
 ## Resources  
-In this project, we used data from the Citi Bike program in New York City. The data we downloaded was contained in a flat file, a CSV. 
+In this project, data from the Citi Bike program in New York City was used. The downloaded data was contained in a flat file, a CSV. 
 We went to the [Citi Bike System Data](https://www.citibikenyc.com/system-data) page. We navigated to the list to **201908-citibike-tripdata.csv.zip**, then downloaded and saved on our computer.  
 
 ## Summary
@@ -13,7 +15,7 @@ We went to the [Citi Bike System Data](https://www.citibikenyc.com/system-data) 
 - Portray data accurately using Tableau dashboards.
 
 ## Challenge 
-The goals of this challenge are for you to:
+The goals of this project is are for you to:
 - Display data professionally and accurately.
 - Professionally style a Tableau story.
 - Utilize previously created Tableau worksheets to create a new story.
